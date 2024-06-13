@@ -25,6 +25,7 @@ print(set_a - set_b)
 set_f = set_a.symmetric_difference(set_b)
 
 
+
 ttk.Label(frm, text=set_c).grid(column=0, row=0)
 ttk.Label(frm, text=set_d).grid(column=0, row=1)
 ttk.Label(frm, text=set_e).grid(column=0, row=2)
